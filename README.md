@@ -1,9 +1,11 @@
-# NoSQL Social Network API
+[NoSQL-Soc-Net-API DEMO.webm](https://github.com/ANelson44/nosql-social-network-api/assets/145131926/ced366c3-26bb-486b-9ce8-1d3c856574fc)# NoSQL Social Network API
 
 ## Description
 This Node.js application programming interface (API) allows users to perform CRUD operations on social networking data models using a NoSQL database. The models include friends, users, thoughts, and reactions. These can be retrieved by ID or all of the data at once. This is built using Node.js and Mongoose, and it provides a simple way to handle social networking data. 
 
 ## Video Demo
+[NoSQL-Soc-Net-API DEMO.webm](https://github.com/ANelson44/nosql-social-network-api/assets/145131926/7736071b-2ac2-4ac1-ab5c-516fc5a5ff2d)
+
 
 
 ## Requirements
