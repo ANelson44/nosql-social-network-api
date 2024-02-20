@@ -63,7 +63,7 @@ const UserController = {
   },
 
 
-  // NEW 7. Remove friend from user's friend list
+  // 7. Remove friend from user's friend list
 
   removeFriend({ params }, res) {
     User.findOneAndUpdate(
